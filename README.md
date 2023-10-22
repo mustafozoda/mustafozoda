@@ -1,6 +1,6 @@
 <!-- Banner -->
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/129182857?v=4" alt="Profile Image" width="150px" style="border-radius: 50%;">
+  <img src="https://avatars.githubusercontent.com/u/129182857?v=4" width="150px" style="border-radius: 50px;">
 </div>
 
 <!-- Introduction -->
