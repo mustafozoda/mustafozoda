@@ -1,19 +1,19 @@
 <!-- Banner -->
-<div align="center">
+<p align="center">
   <img src="https://avatars.githubusercontent.com/u/129182857?v=4" width="150px" style="border-radius: 50px;">
-</div>
+</p>
 
 <!-- Introduction -->
-<h1 align="center">👋 Hi, I'm Mustafozoda Sharifbek</h1>
-<p align="center">Frontend Developer and Software Architecture Enthusiast 🚀</p>
+<h1 align="center">👋 Hi there, I'm Mustafozoda Sharifbek</h1>
+<p align="center">Passionate Frontend Developer and Software Architecture Enthusiast 🚀</p>
 
 <!-- About Me -->
 ### 👨‍💻 About Me
-I'm a passionate frontend developer with a relentless commitment to delivering exceptional user experiences. My journey in software development has led me to explore a diverse set of technologies, including TypeScript, JavaScript, React, Python, and C++. I love tackling complex problems and bringing creative solutions to life.
+I'm on a mission to craft delightful user experiences through innovative frontend solutions. My journey in software development has been a thrilling exploration of TypeScript, JavaScript, React, Python, and C++. Let's turn ideas into interactive wonders! ✨
 
 <!-- Education -->
 ### 🎓 Education
-I'm currently pursuing a Master's in Computer Science with a specialization in Software and Service Architectures at Budapest ELTE Faculty of Informatics. This academic adventure is equipping me with the knowledge and expertise to design and build resilient, scalable software systems.
+Currently pursuing a Master's in Computer Science at Budapest ELTE Faculty of Informatics, specializing in Software and Service Architectures. Equipped with the skills to design and build robust, scalable systems.
 
 <!-- Skills -->
 ### 💼 Skills
@@ -24,28 +24,20 @@ I'm currently pursuing a Master's in Computer Science with a specialization in S
 
 <!-- Projects -->
 ### 🛠️ Projects
-I've had the privilege to work on exciting projects, including:
-- 🚗 Developed a car rental platform using React for a seamless user experience.
-- 📊 Created a data visualization tool with D3.js to convey complex data insights.
-- 🌐 Contributed to open-source projects that aim to make the web more accessible.
+Thrilled to have worked on:
+- 🚗 Car Rental Platform: Seamless user experience with React.
+- 📊 DataViz Tool: Visualizing complex data insights with D3.js.
+- 🌐 Open Source Contributions: Making the web more accessible.
 
 <!-- Achievements -->
 ### 🏆 Achievements
-- Recognized as a top contributor in the GitHub Developer Program.
-- Received the "Innovative Coder" award at the Annual CodeFest Conference.
-- Published articles on web development and software architecture in leading tech publications.
+- GitHub Developer Program: Recognized as a top contributor.
+- Annual CodeFest Conference: "Innovative Coder" award recipient.
+- Tech Publications: Published articles on web development and software architecture.
 
 <!-- Contact Me -->
 ### 📫 Contact Me
-I'm always excited to connect, collaborate, and exchange ideas. Feel free to reach out to me:
-
+Let's connect and collaborate! 🌟
 - 📧 **Email:** [mustafozodashq888@gmail.com](mailto:mustafozodashq888@gmail.com)
 - 🌐 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/mustafozoda-sharifbek-78a265274)
 
-<!-- GitHub Stats -->
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mustafozoda&show_icons=true&count_private=true)
-
-<!---
-mustafozoda/mustafozoda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile 🌟. You can click the Preview link to take a look at your changes 👀.
---->
