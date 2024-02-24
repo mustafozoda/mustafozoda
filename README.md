@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="[https://avatars.githubusercontent.com/u/129182857?v=4](https://avatars.githubusercontent.com/u/129182857?v=4)" width="150px" style="border-radius: 50px;">
+  <img src="https://avatars.githubusercontent.com/u/129182857?v=4" width="150px" style="border-radius: 50px;">
 </p>
 
 <!-- Introduction -->
