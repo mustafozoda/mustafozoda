@@ -18,7 +18,7 @@ Currently pursuing a Master's in Computer Science at Budapest ELTE Faculty of In
 <!-- Skills -->
 ### 💼 Skills
 - **Frontend Development:** TypeScript, JavaScript, React
-- **Backend Development:** Python, C++
+- **Backend Development:** Python, C++, C, Java
 - **Web Technologies:** HTML, CSS, SCSS
 - **UI Frameworks:** Bootstrap, Tailwind CSS
 
