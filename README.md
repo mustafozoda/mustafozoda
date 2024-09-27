@@ -8,34 +8,26 @@
 <p align="center">Full-Stack Developer | Java & React.js Enthusiast</p>
 
 <!-- About Me -->
-<h3>👨‍💻 About Me</h3>
-<p>
-I’m a Full-Stack Developer passionate about creating dynamic web applications. With strong expertise in <strong>Java</strong> for backend development and <strong>React.js</strong> for frontend, I focus on building efficient and user-friendly solutions.
-</p>
+### 👨‍💻 About Me
+I’m a **Full-Stack Developer** passionate about creating dynamic web applications. With strong expertise in **Java** for backend development and **React.js** for frontend, I focus on building efficient and user-friendly solutions.
 
 <!-- Education -->
-<h3>🎓 Education</h3>
-<p>Master's in Computer Science at Budapest ELTE Faculty of Informatics.</p>
+### 🎓 Education
+Master's in Computer Science at Budapest ELTE Faculty of Informatics.
 
 <!-- Skills -->
-<h3>💼 Skills</h3>
-<ul>
-  <li><strong>Frontend:</strong> React.js, HTML, CSS, JavaScript</li>
-  <li><strong>Backend:</strong> Java, Spring Boot</li>
-  <li><strong>Technologies:</strong> RESTful APIs, SQL, NoSQL</li>
-  <li><strong>Frameworks:</strong> Bootstrap, Tailwind CSS</li>
-</ul>
+### 💼 Skills
+- **Frontend:** React.js, HTML, CSS, JavaScript
+- **Backend:** Java, Spring Boot
+- **Technologies:** RESTful APIs, SQL, NoSQL
+- **Frameworks:** Bootstrap, Tailwind CSS
 
 <!-- Projects -->
-<h3>🛠️ Projects</h3>
-<ul>
-  <li><strong>📊 Task Management Tool:</strong> A full-stack application designed to improve team collaboration and productivity.</li>
-</ul>
+### 🛠️ Projects
+- **📊 Task Management Tool:** A full-stack application designed to improve team collaboration and productivity.
 
 <!-- Contact Me -->
-<h3>📫 Contact Me</h3>
-<p>Let’s connect!</p>
-<ul>
-  <li>📧 <strong>Email:</strong> <a href="mailto:mustafozodashq888@gmail.com">mustafozodashq888@gmail.com</a></li>
-  <li>🌐 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/mustafozoda-sharifbek-78a265274">LinkedIn Profile</a></li>
-</ul>
+### 📫 Contact Me
+Let’s connect!
+- 📧 **Email:** [mustafozodashq888@gmail.com](mailto:mustafozodashq888@gmail.com)
+- 🌐 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/mustafozoda-sharifbek-78a265274)
