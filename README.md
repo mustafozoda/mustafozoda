@@ -29,5 +29,5 @@ Master's in Computer Science at Budapest ELTE Faculty of Informatics.
 <!-- Contact Me -->
 ### 📫 Contact Me
 Let’s connect!
-- 📧 **Email:** [mustafozodashq888@gmail.com](mailto:mustafozodashq888@gmail.com)
+- 📧 **Email:** [mustaffozode@gmail.com](mailto:mustafozodashq888@gmail.com)
 - 🌐 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/mustafozoda-sharifbek-78a265274)
